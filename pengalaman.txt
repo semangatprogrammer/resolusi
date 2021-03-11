@@ -1,9 +1,14 @@
 Pengalamanku :
-1. Pernah bekerja di traspac sebagai :
-- Programmer 1 bulan
-- Impelemntator 2 tahun
+1. Pernah bekerja di traspac:
+- Programmer
+** Staf SMS Gateway
+- Impelemntator
+** Staf Presensi
 - PMO
-- Kepala Bagian Implementator
+** Kepala Bagian PMO
+- Implementator
+** Kepala Bagian Implementator
+
 2. pernah bekerja di bkpm 
 - programmer database
 - Programmer UI
