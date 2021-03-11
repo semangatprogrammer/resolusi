@@ -5,8 +5,9 @@ Pengalamanku :
 - Impelemntator
 ** Staf Presensi
 ** Staf Full Aplikasi
-- PMO
-** Kepala Bagian PMO
+- Project Management Officer
+** Staf PMO
+** Project Manager
 - Implementator
 ** Kepala Bagian Implementator
 
