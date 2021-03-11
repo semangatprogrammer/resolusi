@@ -4,6 +4,7 @@ Pengalamanku :
 ** Staf SMS Gateway
 - Impelemntator
 ** Staf Presensi
+** Staf Full Aplikasi
 - PMO
 ** Kepala Bagian PMO
 - Implementator
