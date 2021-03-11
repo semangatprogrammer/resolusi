@@ -1,8 +1,9 @@
 Pengalamanku :
 1. Pernah bekerja di traspac sebagai :
-- Programmer 1 bulan
 - Impelemntator 2 tahun
-- PMO
+- Project Management Officer
+** Staf PMO
+** Project Manager
 - Kepala Bagian Implementator
 2. pernah bekerja di bkpm 
 - programmer database
