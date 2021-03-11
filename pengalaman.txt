@@ -6,3 +6,5 @@ Pengalamanku :
 - Kepala Bagian Implementator
 2. pernah bekerja di bkpm 
 - programmer database
+- Programmer UI
+- Programmer Android
